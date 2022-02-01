@@ -1,0 +1,8 @@
+#!/bin/bash
+<<<<<<< ours
+echo "This School is so cool!"
+||||||| base
+echo "Best"
+=======
+echo "Best School"
+>>>>>>> theirs
